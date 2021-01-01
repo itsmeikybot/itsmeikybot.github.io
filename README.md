@@ -1,2 +1,199 @@
-# itsmeikybot.github.io
-Welcome Bro
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>ITSMEIKY BOT - Indonesia Bot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property=“og:image” content=“https://nexus.groups.id/images/nexusHDimg.png” />
+
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="https://nexus.groups.id/images/favicon.ico" />
+
+    <!-- App css -->
+    <link href="https://nexus.groups.id/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://nexus.groups.id/css/icons.css" rel="stylesheet" type="text/css" />
+    <link href="https://nexus.groups.id/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="main-wraper">
+      <section class="section bg-profile">
+        <div class="zoo-profile">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 align-self-center mb-3 mb-lg-0">
+                <div class="zoo-profile-main">
+                  <div class="zoo-profile-main-pic">
+                    <img src="https://a.top4top.io/p_1827az8va0.png" alt="" class="rounded-circle" />
+                  </div>
+                  <!--end zoo-profile-main-pic-->
+                  <div class="zoo-profile_user-detail">
+                    <h5 class="zoo-user-name">ITSMEIKY BOT 🇮🇩</h5>
+                    <p class="cd-headline">
+                      <b>Official Bot WhatsApp</b>
+                    </p>
+                  </div>
+                  <!--end zoo-profile_user-detail-->
+                </div>
+                <!--end profile-main-pic-->
+              </div>
+              <!--end col-->
+              <div class="col-md-4 ml-auto">
+                <ul class="list-unstyled personal-detail">
+                  <li><i class="uil uil-link-alt mr-2"></i> <b>Invite Code</b> :</li>
+                  <li>
+                    <span style="font-size: 18px; background-color: #0d0f1f; padding: 3px 6px; border-bottom: 1px dotted #f1646c;">https://chat.whatsapp.com/IABVod4NWrpB4PIl5rRxRy</span>
+                    <span style="cursor: pointer;" class="invite" data-clipboard-text="https://chat.whatsapp.com/IABVod4NWrpB4PIl5rRxRy"><i class="uil uil-copy"></i></span>
+                  </li>
+                </ul>
+                <!--end personal-detail-->
+                <ul class="list-inline social-icon mb-0">
+                  <li class="list-inline-item">
+                    <a href="https://chat.whatsapp.com/IABVod4NWrpB4PIl5rRxRy" class="bg-danger">
+                      <i class="uil uil-youtube"></i>
+                    </a>
+		  </li>
+                  <li class="list-inline-item">
+                    <a href="https://chat.whatsapp.com/IABVod4NWrpB4PIl5rRxRy" class="bg-secondary">
+                      <i class="uil uil-twitter"></i>
+                    </a>
+                  </li>
+                </ul>
+                <!--end social-icon-->
+              </div>
+              <!--end col-->
+            </div>
+            <!--end row-->
+          </div>
+          <!--end container-->
+        </div>
+        <!--end zoo-profile-->
+      </section>
+      <!--end section-->
+
+      <section class="section-md">
+        <div class="container">
+          <div class="row">
+            <!--end col-->
+            <div class="col-lg-6 col-md-12 col-sm-12">
+              <h4 class="text-primary font-weight-bold">We are ITSMEIKY BOT! </h4>
+
+              <p>
+                ITSMEIKY BOT Adalah Sebuah Bot WhatsApp Yang Mempunyai Fitur Fitur Menarik Yang Bisa Di Gunakan Dalam Aplikasi WhatsApp
+              </p>
+              <p>Beberapa selfhost bot disediakan untuk kenyamanan member seperti: downloader dan maker logox, dan beberapa admin yang selalu aktif</p>
+              <a href="https://chat.whatsapp.com/IABVod4NWrpB4PIl5rRxRy" type="button" class="btn btn-lg btn-danger">Join Sekarang!</a>
+            </div>
+            <!--end col-->
+            <div class="col-lg-5 offset-lg-1 align-self-center d-none d-lg-block">
+              <img class="img-fluid" src="images/nexusHDimg.png" alt="" />
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </section>
+      <!--end section--
+        </div>
+        <!--end container-->
+      </section>
+      <!--end section-->
+
+      <section class="bg-funfact section-md">
+        <div class="container">
+          <div class="row justify-content-center" id="counter">
+            <div class="col-sm-4 digit-counter">
+              <div class="media">
+                <i class="uil uil-users-alt text-warning mr-2 align-self-center"></i>
+                <div class="media-body align-self-center">
+                  <h3 class="mb-1"><span class="counter-value" data-count="230">230</span>+</h3>
+                  <h5 class="counter-name mt-0">Members</h5>
+                </div>
+              </div>
+              <!--end media-->
+            </div>
+            <!--end col-->
+            <div class="col-sm-4 digit-counter">
+              <div class="media">
+                <i class="uil uil-smile text-success mr-2 align-self-center"></i>
+                <div class="media-body align-self-center">
+                  <h3 class="mb-1"><span class="counter-value" data-count="100">100</span>+</h3>
+                  <h5 class="counter-name mt-0">Active Members</h5>
+                </div>
+              </div>
+              <!--end media-->
+            </div>
+            <!--end col-->
+            <div class="col-sm-4 digit-counter">
+              <div class="media">
+                <i class="uil uil-robot text-pink mr-2 align-self-center"></i>
+                <div class="media-body align-self-center">
+                  <h3 class="mb-1"><span class="counter-value" data-count="3">3</span></h3>
+                  <h5 class="counter-name mt-0">Bots</h5>
+                </div>
+              </div>
+              <!--end media-->
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </section>
+      <!--end section-->
+
+      <footer class="footer-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 text-center">
+              <p class="copyright mb-0 py-4">Since 2020 - ITSMEIKY BOT</p>
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </footer>
+      <!--end footer-area-->
+    </div>
+    <!--end main-wraper-->
+
+    <!-- jQuery  -->
+    <script src="https://nexus.groups.id/js/jquery.min.js"></script>
+    <script src="https://nexus.groups.id/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+    <script>
+      // Tooltip
+
+      $('.invite').tooltip({
+        trigger: 'click',
+        placement: 'bottom'
+      });
+
+      function setTooltip(message) {
+        $('.invite').tooltip('hide').attr('data-original-title', message).tooltip('show');
+      }
+
+      function hideTooltip() {
+        setTimeout(function () {
+          $('.invite').tooltip('hide');
+        }, 1000);
+      }
+
+      // Clipboard
+
+      var clipboard = new ClipboardJS('.invite');
+
+      clipboard.on('success', function (e) {
+        setTooltip('Copied!');
+        hideTooltip();
+      });
+
+      clipboard.on('error', function (e) {
+        setTooltip('Failed!');
+        hideTooltip();
+      });
+    </script>
+  </body>
+</html>
